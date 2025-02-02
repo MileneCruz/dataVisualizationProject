@@ -1,0 +1,514 @@
+movie_title,genre,mpaa_rating,rating_description,inflation_adjusted_gross,year,generation
+Snow White and the Seven Dwarfs,Musical,G,General Audiences,5228953251,1937,n/a
+Pinocchio,Adventure,G,General Audiences,2188229052,1940,n/a
+Fantasia,Musical,G,General Audiences,2187090808,1940,n/a
+Song of the South,Adventure,G,General Audiences,1078510579,1946,n/a
+Cinderella,Drama,G,General Audiences,920608730,1950,n/a
+Lady and the Tramp,Drama,G,General Audiences,1236035515,1955,n/a
+101 Dalmatians,Comedy,G,General Audiences,1362870985,1961,n/a
+Babes in Toyland,Musical,G,General Audiences,124841160,1961,n/a
+Bon Voyage!,Comedy,Not Rated,Not Rated ,109581646,1962,n/a
+The Jungle Book,Musical,Not Rated,Not Rated ,789612346,1967,n/a
+The Aristocats,Musical,G,General Audiences,255161499,1970,n/a
+Splash,Comedy,PG,Parental Guidance Suggested,157057661,1984,n/a
+Down and Out in Beverly Hills,Comedy,R,Restricted,141183693,1986,Gen M
+Ruthless People,Comedy,R,Restricted,162748712,1986,Gen M
+The Color of Money,Drama,R,Restricted,117957323,1986,Gen M
+Outrageous Fortune,Comedy,R,Restricted,113976921,1987,Gen M
+Stakeout,Comedy,R,Restricted,141592160,1987,Gen M
+3 Men and a Baby,Comedy,PG,Parental Guidance Suggested,353334607,1987,Gen M
+Good Morning Vietnam,Comedy,R,Restricted,254414837,1987,Gen M
+Return to Snowy River,Adventure,PG,Parental Guidance Suggested,28073384,1988,Gen M
+Big Business,Comedy,PG,Parental Guidance Suggested,82352451,1988,Gen M
+Who Framed Roger Rabbit?,Comedy,PG,Parental Guidance Suggested,316250084,1988,Gen M
+Cocktail,Drama,R,Restricted,160442289,1988,Gen M
+Ernest Saves Christmas,Comedy,PG,Parental Guidance Suggested,57845202,1988,Gen M
+Oliver & Company,Adventure,G,General Audiences,102254492,1988,Gen M
+Beaches,Drama,PG-13,Parents Strongly Cautioned,120381757,1988,Gen M
+Three Fugitives,Comedy,PG-13,Parents Strongly Cautioned,85757817,1989,Gen M
+New York Stories,Drama,PG,Parental Guidance Suggested,22740861,1989,Gen M
+Dead Poets Society,Drama,PG,Parental Guidance Suggested,202531517,1989,Gen M
+"Honey, I Shrunk the Kids",Adventure,PG,Parental Guidance Suggested,276191669,1989,Gen M
+Turner & Hooch,Comedy,PG,Parental Guidance Suggested,150176361,1989,Gen M
+An Innocent Man,Drama,R,Restricted,40983414,1989,Gen M
+Gross Anatomy,Drama,PG-13,Parents Strongly Cautioned,23972012,1989,Gen M
+The Little Mermaid,Adventure,G,General Audiences,223726012,1989,Gen M
+Blaze,Drama,R,Restricted,39884640,1989,Gen M
+Stella,Drama,PG-13,Parents Strongly Cautioned,40077147,1990,Gen M
+Pretty Woman,Romantic Comedy,R,Restricted,356389765,1990,Gen M
+Ernest Goes to Jail,Comedy,PG,Parental Guidance Suggested,49999822,1990,Gen M
+Spaced Invaders,Comedy,PG,Parental Guidance Suggested,29964452,1990,Gen M
+Fire Birds,Action,PG-13,Parents Strongly Cautioned,29485923,1990,Gen M
+Dick Tracy,Action,PG,Parental Guidance Suggested,207231621,1990,Gen M
+Betsy's Wedding,Comedy,R,Restricted,39433357,1990,Gen M
+Arachnophobia,Thriller/Suspense,PG-13,Parents Strongly Cautioned,106290270,1990,Gen M
+DuckTales: The Movie - Treasure of th…,Adventure,G,General Audiences,36107823,1990,Gen M
+Taking Care of Business,Comedy,R,Restricted,39963460,1990,Gen M
+Mr. Destiny,Comedy,PG-13,Parents Strongly Cautioned,30722056,1990,Gen M
+The Rescuers Down Under,Adventure,G,General Audiences,55796728,1990,Gen M
+3 Men and a Little Lady,Comedy,PG,Parental Guidance Suggested,143108869,1990,Gen M
+Green Card,Romantic Comedy,PG-13,Parents Strongly Cautioned,59679131,1990,Gen M
+White Fang,Adventure,PG,Parental Guidance Suggested,69540672,1991,Gen M
+Haakon Haakonsen,Adventure,PG,Parental Guidance Suggested,30084149,1991,Gen M
+The Marrying Man,Romantic Comedy,R,Restricted,24939118,1991,Gen M
+Oscar,Comedy,PG,Parental Guidance Suggested,47181395,1991,Gen M
+One Good Cop,Action,R,Restricted,22580472,1991,Gen M
+What About Bob?,Comedy,PG,Parental Guidance Suggested,127571325,1991,Gen M
+The Rocketeer,Action,PG,Parental Guidance Suggested,93256673,1991,Gen M
+The Doctor,Drama,PG-13,Parents Strongly Cautioned,75084021,1991,Gen M
+Paradise,Drama,PG-13,Parents Strongly Cautioned,37313540,1991,Gen M
+Deceived,Thriller/Suspense,PG-13,Parents Strongly Cautioned,57544453,1991,Gen M
+Ernest Scared Stupid,Comedy,PG,Parental Guidance Suggested,28320147,1991,Gen M
+Billy Bathgate,Drama,R,Restricted,31167691,1991,Gen M
+Beauty and the Beast,Musical,G,General Audiences,363017667,1991,Gen M
+Father of the Bride,Comedy,PG,Parental Guidance Suggested,179821881,1991,Gen M
+The Hand That Rocks the Cradle,Thriller/Suspense,R,Restricted,178831137,1992,Gen M
+Medicine Man,Drama,PG-13,Parents Strongly Cautioned,91304495,1992,Gen M
+Blame it on the Bellboy,Comedy,PG-13,Parents Strongly Cautioned,5872667,1992,Gen M
+Noises Off...,Comedy,PG-13,Parents Strongly Cautioned,4631720,1992,Gen M
+Straight Talk,Comedy,PG,Parental Guidance Suggested,43068356,1992,Gen M
+Encino Man,Comedy,PG,Parental Guidance Suggested,81369058,1992,Gen M
+Sister Act,Comedy,PG,Parental Guidance Suggested,283583472,1992,Gen M
+Honey I Blew Up the Kid,Comedy,PG,Parental Guidance Suggested,119162518,1992,Gen M
+A Stranger Among Us,Drama,PG-13,Parents Strongly Cautioned,24950752,1992,Gen M
+3 Ninjas,Action,PG,Parental Guidance Suggested,58965304,1992,Gen M
+Captain Ron,Comedy,PG-13,Parents Strongly Cautioned,45741576,1992,Gen M
+Sarafina!,Drama,PG-13,Parents Strongly Cautioned,14841352,1992,Gen M
+Innocent Blood,Horror,R,Restricted,9907922,1992,Gen M
+The Mighty Ducks,Comedy,PG,Parental Guidance Suggested,103120810,1992,Gen M
+1492: Conquest of Paradise,Adventure,PG-13,Parents Strongly Cautioned,14421454,1992,Gen M
+Consenting Adults,Drama,R,Restricted,43859823,1992,Gen M
+Aladdin,Comedy,G,General Audiences,441969178,1992,Gen M
+The Distinguished Gentleman,Comedy,R,Restricted,94349900,1992,Gen M
+The Muppet Christmas Carol,Comedy,G,General Audiences,55417615,1992,Gen M
+Alive,Adventure,R,Restricted,73914543,1993,Gen M
+Aspen Extreme,Romantic Comedy,PG-13,Parents Strongly Cautioned,15970955,1993,Gen M
+Homeward Bound: The Incredible Journey,Adventure,G,General Audiences,85182343,1993,Gen M
+The Cemetery Club,Comedy,PG-13,Parents Strongly Cautioned,11369541,1993,Gen M
+Swing Kids,Musical,PG-13,Parents Strongly Cautioned,11468231,1993,Gen M
+A Far Off Place,Adventure,PG,Parental Guidance Suggested,26248558,1993,Gen M
+Born Yesterday,Romantic Comedy,PG,Parental Guidance Suggested,36165012,1993,Gen M
+The Adventures of Huck Finn,Adventure,PG,Parental Guidance Suggested,49080505,1993,Gen M
+Indian Summer,Comedy,R,Restricted,29968953,1993,Gen M
+Super Mario Bros.,Action,PG,Parental Guidance Suggested,42445058,1993,Gen M
+Guilty as Sin,Thriller/Suspense,R,Restricted,46064723,1993,Gen M
+Life With Mikey,Comedy,PG,Parental Guidance Suggested,25146538,1993,Gen M
+What's Love Got to Do With It,Drama,R,Restricted,79618610,1993,Gen M
+Son in Law,Comedy,PG-13,Parents Strongly Cautioned,52921433,1993,Gen M
+Hocus Pocus,Comedy,PG,Parental Guidance Suggested,80147079,1993,Gen M
+Another Stakeout,Comedy,PG-13,Parents Strongly Cautioned,40943541,1993,Gen M
+The Joy Luck Club,Drama,R,Restricted,66768171,1993,Gen M
+Money for Nothing,Comedy,R,Restricted,2127496,1993,Gen M
+The Program,Action,R,Restricted,46919256,1993,Gen M
+Cool Runnings,Comedy,PG,Parental Guidance Suggested,140392731,1993,Gen M
+The Nightmare Before Christmas,Musical,PG,Parental Guidance Suggested,100026637,1993,Gen M
+The Three Musketeers,Adventure,PG,Parental Guidance Suggested,109310377,1993,Gen M
+Sister Act 2 Back in the Habit,Comedy,PG,Parental Guidance Suggested,116965668,1993,Gen M
+Tombstone,Western,R,Restricted,115781734,1993,Gen M
+The Air Up There,Comedy,PG,Parental Guidance Suggested,42940186,1994,Gen M
+Cabin Boy,Comedy,PG-13,Parents Strongly Cautioned,7168577,1994,Gen M
+Iron Will,Drama,PG,Parental Guidance Suggested,42610902,1994,Gen M
+Blank Check,Comedy,PG,Parental Guidance Suggested,63170804,1994,Gen M
+Angie,Comedy,R,Restricted,19116981,1994,Gen M
+The Ref,Comedy,R,Restricted,23401275,1994,Gen M
+D2: The Mighty Ducks,Comedy,PG,Parental Guidance Suggested,94226333,1994,Gen M
+White Fang 2: Myth of the White Wolf,Adventure,PG,Parental Guidance Suggested,18083994,1994,Gen M
+The Inkwell,Comedy,R,Restricted,18316030,1994,Gen M
+When a Man Loves a Woman,Drama,R,Restricted,103354194,1994,Gen M
+3 Ninjas Kick Back,Action,PG,Parental Guidance Suggested,24267154,1994,Gen M
+Renaissance Man,Comedy,PG-13,Parents Strongly Cautioned,49945474,1994,Gen M
+The Lion King,Adventure,G,General Audiences,761640898,1994,Gen M
+I Love Trouble,Romantic Comedy,PG,Parental Guidance Suggested,63651027,1994,Gen M
+Angels in the Outfield,Comedy,PG,Parental Guidance Suggested,103798152,1994,Gen M
+In the Army Now,Comedy,PG,Parental Guidance Suggested,59673787,1994,Gen M
+Color of Night,Thriller/Suspense,R,Restricted,40804816,1994,Gen M
+Camp Nowhere,Comedy,PG,Parental Guidance Suggested,21576332,1994,Gen M
+A Simple Twist of Fate,Drama,PG-13,Parents Strongly Cautioned,7035189,1994,Gen M
+Quiz Show,Drama,PG-13,Parents Strongly Cautioned,50840394,1994,Gen M
+Terminal Velocity,Action,PG-13,Parents Strongly Cautioned,34048315,1994,Gen M
+Ed Wood,Comedy,R,Restricted,12042634,1994,Gen M
+The Puppet Masters,Horror,R,Restricted,17727017,1994,Gen M
+Squanto: A Warrior's Tale,Drama,PG,Parental Guidance Suggested,6858345,1994,Gen M
+The Santa Clause,Comedy,PG,Parental Guidance Suggested,298369717,1994,Gen M
+A Low Down Dirty Shame,Action,R,Restricted,60321919,1994,Gen M
+The Jungle Book,Adventure,PG,Parental Guidance Suggested,88930321,1994,Gen M
+Houseguest,Comedy,PG,Parental Guidance Suggested,51016522,1995,Gen M
+Bad Company,Thriller/Suspense,R,Restricted,6829092,1995,Gen M
+Miami Rhapsody,Romantic Comedy,PG-13,Parents Strongly Cautioned,9857435,1995,Gen M
+The Jerky Boys,Comedy,R,Restricted,14641561,1995,Gen M
+Heavy Weights,Comedy,PG,Parental Guidance Suggested,34245779,1995,Gen M
+Man of the House,Comedy,PG,Parental Guidance Suggested,77573459,1995,Gen M
+Roommates,Comedy,PG,Parental Guidance Suggested,23404369,1995,Gen M
+Tall Tale,Western,PG,Parental Guidance Suggested,15983331,1995,Gen M
+A Pyromaniac's Love Story,Romantic Comedy,PG,Parental Guidance Suggested,907414,1995,Gen M
+Jefferson in Paris,Drama,PG-13,Parents Strongly Cautioned,4770461,1995,Gen M
+Funny Bones,Comedy,R,Restricted,1025425,1995,Gen M
+A Goofy Movie,Comedy,G,General Audiences,68479579,1995,Gen M
+While You Were Sleeping,Romantic Comedy,PG,Parental Guidance Suggested,157082900,1995,Gen M
+Crimson Tide,Action,R,Restricted,177102077,1995,Gen M
+Mad Love,Drama,PG-13,Parents Strongly Cautioned,29934306,1995,Gen M
+Pocahontas,Adventure,G,General Audiences,274370957,1995,Gen M
+Judge Dredd,Action,R,Restricted,67222776,1995,Gen M
+Operation Dumbo Drop,Adventure,PG,Parental Guidance Suggested,47809421,1995,Gen M
+Dangerous Minds,Drama,R,Restricted,164552293,1995,Gen M
+A Kid in King Arthur's Court,Adventure,PG,Parental Guidance Suggested,25981285,1995,Gen M
+The Tie That Binds,Thriller/Suspense,R,Restricted,11167895,1995,Gen M
+Unstrung Heroes,Drama,PG,Parental Guidance Suggested,15365850,1995,Gen M
+The Big Green,Comedy,PG,Parental Guidance Suggested,34372339,1995,Gen M
+Dead Presidents,Drama,R,Restricted,46741467,1995,Gen M
+The Scarlet Letter,Drama,R,Restricted,20075033,1995,Gen M
+Feast of July,Drama,R,Restricted,568342,1995,Gen M
+Powder,Drama,PG-13,Parents Strongly Cautioned,59727216,1995,Gen M
+Toy Story,Adventure,G,General Audiences,370409631,1995,Gen M
+Father of the Bride Part II,Comedy,PG,Parental Guidance Suggested,147658438,1995,Gen M
+Nixon,Drama,R,Restricted,26302005,1995,Gen M
+Tom and Huck,Adventure,PG,Parental Guidance Suggested,45911517,1995,Gen M
+Mr. Holland's Opus,Drama,PG,Parental Guidance Suggested,157508868,1995,Gen M
+White Squall,Adventure,PG-13,Parents Strongly Cautioned,19509726,1996,Gen M
+Muppet Treasure Island,Adventure,G,General Audiences,65470567,1996,Gen M
+Mr. Wrong,Romantic Comedy,PG-13,Parents Strongly Cautioned,24422334,1996,Gen M
+Before and After,Drama,PG-13,Parents Strongly Cautioned,16482589,1996,Gen M
+Up Close & Personal,Drama,PG-13,Parents Strongly Cautioned,97356578,1996,Gen M
+Homeward Bound II: Lost in San Franc…,Adventure,G,General Audiences,62384706,1996,Gen M
+Two Much,Romantic Comedy,PG-13,Parents Strongly Cautioned,2057055,1996,Gen M
+Un indien dans la ville,Comedy,PG,Parental Guidance Suggested,1963937,1996,Gen M
+James and the Giant Peach,Adventure,PG,Parental Guidance Suggested,55159783,1996,Gen M
+Celtic Pride,Comedy,PG-13,Parents Strongly Cautioned,17623615,1996,Gen M
+Last Dance,Drama,R,Restricted,11171714,1996,Gen M
+Boys,Drama,PG-13,Parents Strongly Cautioned,41826566,1996,Gen M
+Spy Hard,Comedy,PG-13,Parents Strongly Cautioned,51373912,1996,Gen M
+Eddie,Comedy,PG-13,Parents Strongly Cautioned,59828966,1996,Gen M
+The Rock,Action,R,Restricted,255702705,1996,Gen M
+The Hunchback of Notre Dame,Adventure,G,General Audiences,190988799,1996,Gen M
+Phenomenon,Drama,PG,Parental Guidance Suggested,199559799,1996,Gen M
+Kazaam,Comedy,PG,Parental Guidance Suggested,36009655,1996,Gen M
+Jack,Drama,PG-13,Parents Strongly Cautioned,111792852,1996,Gen M
+First Kid,Comedy,PG,Parental Guidance Suggested,50465108,1996,Gen M
+The Rich Man's Wife,Thriller/Suspense,R,Restricted,16284619,1996,Gen M
+D3: The Mighty Ducks,Comedy,PG,Parental Guidance Suggested,43713554,1996,Gen M
+The Associate,Comedy,PG-13,Parents Strongly Cautioned,24333094,1996,Gen M
+Ransom,Action,R,Restricted,259807820,1996,Gen M
+101 Dalmatians,Comedy,G,General Audiences,258728898,1996,Gen M
+The Preacher's Wife,Drama,PG,Parental Guidance Suggested,91076877,1996,Gen M
+Evita,Musical,PG,Parental Guidance Suggested,92077628,1996,Gen M
+Metro,Action,R,Restricted,58804106,1997,Gen M
+Prefontaine,Drama,PG-13,Parents Strongly Cautioned,1085093,1997,Gen M
+Shadow Conspiracy,Thriller/Suspense,R,Restricted,3957025,1997,Gen M
+That Darn Cat,Comedy,PG,Parental Guidance Suggested,33613158,1997,Gen M
+Jungle 2 Jungle,Comedy,PG,Parental Guidance Suggested,110058379,1997,Gen M
+The Sixth Man,Comedy,PG-13,Parents Strongly Cautioned,27117599,1997,Gen M
+Grosse Pointe Blank,Black Comedy,R,Restricted,51579764,1997,Gen M
+Romy and Michele's High School Reunion,Comedy,R,Restricted,53693680,1997,Gen M
+Gone Fishin',Comedy,PG,Parental Guidance Suggested,36265379,1997,Gen M
+Con Air,Action,R,Restricted,185712664,1997,Gen M
+Hercules,Adventure,G,General Audiences,182029412,1997,Gen M
+George Of The Jungle,Comedy,PG,Parental Guidance Suggested,193326632,1997,Gen M
+Nothing To Lose,Comedy,R,Restricted,81692095,1997,Gen M
+Air Bud,Comedy,PG,Parental Guidance Suggested,45266588,1997,Gen M
+G.I. Jane,Drama,R,Restricted,88467531,1997,Gen M
+A Thousand Acres,Drama,R,Restricted,14561324,1997,Gen M
+Washington Square,Drama,PG,Parental Guidance Suggested,3257546,1997,Gen M
+Rocket Man,Comedy,PG,Parental Guidance Suggested,28371890,1997,Gen M
+Playing God,Thriller/Suspense,R,Restricted,7652965,1997,Gen M
+Flubber,Comedy,PG,Parental Guidance Suggested,170406423,1997,Gen M
+An American Werewolf in Paris,Horror,R,Restricted,48546161,1997,Gen M
+Mr. Magoo,Comedy,PG,Parental Guidance Suggested,39145784,1997,Gen M
+Kundun,Drama,PG-13,Parents Strongly Cautioned,10236836,1997,Gen M
+Deep Rising,Action,R,Restricted,20136775,1998,Gen M
+Krippendorf's Tribe,Comedy,PG-13,Parents Strongly Cautioned,13608633,1998,Gen M
+An Alan Smithee Film: Burn Hollywood …,Comedy,R,Restricted,82277,1998,Gen M
+Meet the Deedles,Comedy,PG,Parental Guidance Suggested,7829877,1998,Gen M
+He Got Game,Drama,R,Restricted,38766948,1998,Gen M
+The Horse Whisperer,Drama,PG-13,Parents Strongly Cautioned,135497531,1998,Gen M
+"Six Days, Seven Nights",Romantic Comedy,PG-13,Parents Strongly Cautioned,133620516,1998,Gen M
+Mulan,Adventure,G,General Audiences,216807832,1998,Gen M
+Armageddon,Adventure,PG-13,Parents Strongly Cautioned,362324957,1998,Gen M
+Jane Austen's Mafia,Comedy,PG-13,Parents Strongly Cautioned,35668055,1998,Gen M
+The Parent Trap,Comedy,PG,Parental Guidance Suggested,119185667,1998,Gen M
+Firelight,Drama,R,Restricted,1409943,1998,Gen M
+Simon Birch,Drama,PG,Parental Guidance Suggested,32809442,1998,Gen M
+Holy Man,Comedy,PG,Parental Guidance Suggested,21694605,1998,Gen M
+Beloved,Drama,R,Restricted,41062682,1998,Gen M
+The Waterboy,Comedy,PG-13,Parents Strongly Cautioned,288691833,1998,Gen M
+I'll Be Home For Christmas,Comedy,PG,Parental Guidance Suggested,21941840,1998,Gen M
+A Bug's Life,Adventure,G,General Audiences,288981698,1998,Gen M
+Enemy of the State,Action,R,Restricted,198472008,1998,Gen M
+Rushmore,Black Comedy,R,Restricted,28392518,1998,Gen M
+A Civil Action,Drama,PG-13,Parents Strongly Cautioned,94139530,1998,Gen M
+Mighty Joe Young,Adventure,PG,Parental Guidance Suggested,87906042,1998,Gen M
+My Favorite Martian,Comedy,PG,Parental Guidance Suggested,61150849,1999,Gen M
+The Other Sister,Romantic Comedy,PG-13,Parents Strongly Cautioned,46145331,1999,Gen M
+Doug's 1st Movie,Adventure,G,General Audiences,32228598,1999,Gen M
+Ten Things I Hate About You,Romantic Comedy,PG-13,Parents Strongly Cautioned,63354375,1999,Gen M
+Instinct,Drama,R,Restricted,56595842,1999,Gen M
+Tarzan,Adventure,G,General Audiences,283900254,1999,Gen M
+Summer of Sam,Drama,R,Restricted,32007656,1999,Gen M
+Inspector Gadget,Comedy,PG,Parental Guidance Suggested,161610341,1999,Gen M
+The Sixth Sense,Thriller/Suspense,PG-13,Parents Strongly Cautioned,485424724,1999,Gen M
+The 13th Warrior,Action,R,Restricted,54262148,1999,Gen M
+Breakfast of Champions,Comedy,R,Restricted,295851,1999,Gen M
+Mumford,Comedy,R,Restricted,7566363,1999,Gen M
+"Mystery, Alaska",Comedy,R,Restricted,14755189,1999,Gen M
+The Straight Story,Drama,G,General Audiences,10111144,1999,Gen M
+The Insider,Drama,R,Restricted,47794214,1999,Gen M
+Toy Story 2,Adventure,G,General Audiences,404450426,1999,Gen M
+Cradle Will Rock,Drama,R,Restricted,4609153,1999,Gen M
+Deuce Bigalow: Male Gigolo,Comedy,R,Restricted,106921374,1999,Gen M
+Bicentennial Man,Drama,PG,Parental Guidance Suggested,94838225,1999,Gen M
+Play it to the Bone,Comedy,R,Restricted,13180524,1999,Gen M
+Fantasia 2000 (IMAX),Musical,G,General Audiences,94852354,2000,Gen Z
+Gun Shy,Comedy,R,Restricted,2562155,2000,Gen Z
+The Tigger Movie,Adventure,G,General Audiences,71228678,2000,Gen Z
+Mission to Mars,Adventure,PG,Parental Guidance Suggested,95208344,2000,Gen Z
+High Fidelity,Comedy,R,Restricted,42661516,2000,Gen Z
+Keeping the Faith,Romantic Comedy,PG-13,Parents Strongly Cautioned,57925202,2000,Gen Z
+Dinosaur,Adventure,PG,Parental Guidance Suggested,215438985,2000,Gen Z
+Shanghai Noon,Western,PG-13,Parents Strongly Cautioned,89042541,2000,Gen Z
+Gone in 60 Seconds,Action,PG-13,Parents Strongly Cautioned,158970411,2000,Gen Z
+Fantasia 2000 (Theatrical Release),Musical,G,General Audiences,14238144,2000,Gen Z
+The Kid,Comedy,PG,Parental Guidance Suggested,108993148,2000,Gen Z
+Coyote Ugly,Drama,PG-13,Parents Strongly Cautioned,95070168,2000,Gen Z
+The Crew,Comedy,PG-13,Parents Strongly Cautioned,20362201,2000,Gen Z
+Duets,Drama,R,Restricted,7404372,2000,Gen Z
+Remember the Titans,Drama,PG,Parental Guidance Suggested,180742479,2000,Gen Z
+Unbreakable,Thriller/Suspense,PG-13,Parents Strongly Cautioned,148208901,2000,Gen Z
+102 Dalmatians,Comedy,G,General Audiences,104055039,2000,Gen Z
+The Emperor's New Groove,Adventure,G,General Audiences,136789252,2000,Gen Z
+"O Brother, Where Art Thou?",Comedy,PG-13,Parents Strongly Cautioned,67922002,2000,Gen Z
+Double Take,Action,PG-13,Parents Strongly Cautioned,44418589,2001,Gen Z
+Recess: School's Out,Comedy,G,General Audiences,54656124,2001,Gen Z
+Just Visiting,Comedy,PG-13,Parents Strongly Cautioned,7114869,2001,Gen Z
+Pearl Harbor,Action,PG-13,Parents Strongly Cautioned,295705112,2001,Gen Z
+Atlantis: The Lost Empire,Adventure,PG,Parental Guidance Suggested,125188122,2001,Gen Z
+crazy/beautiful,Drama,PG-13,Parents Strongly Cautioned,25214223,2001,Gen Z
+The Princess Diaries,Comedy,G,General Audiences,161218928,2001,Gen Z
+Bubble Boy,Comedy,PG-13,Parents Strongly Cautioned,7450434,2001,Gen Z
+Max Keeble's Big Move,Comedy,PG,Parental Guidance Suggested,25749730,2001,Gen Z
+Corky Romano,Comedy,PG-13,Parents Strongly Cautioned,35705805,2001,Gen Z
+"Monsters, Inc.",Adventure,G,General Audiences,416073179,2001,Gen Z
+Out Cold,Comedy,PG-13,Parents Strongly Cautioned,20700691,2001,Gen Z
+The Royal Tenenbaums,Black Comedy,R,Restricted,76758193,2001,Gen Z
+Beauty and the Beast (IMAX),Musical,G,General Audiences,36980311,2002,Gen Z
+Snow Dogs,Comedy,PG,Parental Guidance Suggested,117745317,2002,Gen Z
+The Count of Monte Cristo,Drama,PG-13,Parents Strongly Cautioned,78682079,2002,Gen Z
+Peter Pan: Return to Neverland,Adventure,G,General Audiences,70269715,2002,Gen Z
+Reign of Fire,Action,PG-13,Parents Strongly Cautioned,62480631,2002,Gen Z
+Sorority Boys,Comedy,R,Restricted,14797862,2002,Gen Z
+The Rookie,Drama,G,General Audiences,109691666,2002,Gen Z
+Big Trouble,Comedy,PG-13,Parents Strongly Cautioned,10537188,2002,Gen Z
+ESPN's Ultimate X - The Movie,Documentary,PG,Parental Guidance Suggested,6089874,2002,Gen Z
+Bad Company,Action,PG-13,Parents Strongly Cautioned,43756218,2002,Gen Z
+Lilo & Stitch,Adventure,PG,Parental Guidance Suggested,211506702,2002,Gen Z
+The Country Bears,Adventure,G,General Audiences,24650121,2002,Gen Z
+Signs,Thriller/Suspense,PG-13,Parents Strongly Cautioned,330754439,2002,Gen Z
+Sen to Chihiro no Kamikakushi,Adventure,PG,Parental Guidance Suggested,14338992,2002,Gen Z
+Sweet Home Alabama,Comedy,PG-13,Parents Strongly Cautioned,184521151,2002,Gen Z
+Moonlight Mile,Drama,PG-13,Parents Strongly Cautioned,9909094,2002,Gen Z
+Tuck Everlasting,Drama,PG,Parental Guidance Suggested,27789959,2002,Gen Z
+The Santa Clause 2,Comedy,G,General Audiences,201959095,2002,Gen Z
+Treasure Planet,Adventure,PG,Parental Guidance Suggested,55189145,2002,Gen Z
+The Hot Chick,Comedy,PG-13,Parents Strongly Cautioned,50624654,2002,Gen Z
+25th Hour,Drama,R,Restricted,18325463,2002,Gen Z
+The Recruit,Thriller/Suspense,PG-13,Parents Strongly Cautioned,73793522,2003,Gen Z
+Shanghai Knights,Adventure,PG-13,Parents Strongly Cautioned,84537962,2003,Gen Z
+The Jungle Book 2,Adventure,G,General Audiences,66966883,2003,Gen Z
+Bringing Down the House,Comedy,PG-13,Parents Strongly Cautioned,185481530,2003,Gen Z
+Piglet's Big Movie,Comedy,G,General Audiences,32298812,2003,Gen Z
+Ghosts of the Abyss,Documentary,G,General Audiences,23803108,2003,Gen Z
+Holes,Drama,PG,Parental Guidance Suggested,94203395,2003,Gen Z
+The Lizzie McGuire Movie,Comedy,PG,Parental Guidance Suggested,59743191,2003,Gen Z
+Finding Nemo,Adventure,G,General Audiences,518148559,2003,Gen Z
+Pirates of the Caribbean: The Curse o…,Adventure,PG-13,Parents Strongly Cautioned,426967926,2003,Gen Z
+Freaky Friday,Comedy,PG,Parental Guidance Suggested,154090360,2003,Gen Z
+Open Range,Western,R,Restricted,81547672,2003,Gen Z
+Cold Creek Manor,Thriller/Suspense,R,Restricted,29895090,2003,Gen Z
+Under the Tuscan Sun,Comedy,PG-13,Parents Strongly Cautioned,60944053,2003,Gen Z
+Veronica Guerin,Drama,R,Restricted,2194759,2003,Gen Z
+Brother Bear,Adventure,G,General Audiences,119218333,2003,Gen Z
+The Haunted Mansion,Comedy,PG,Parental Guidance Suggested,105775678,2003,Gen Z
+Calendar Girls,Comedy,PG-13,Parents Strongly Cautioned,42379650,2003,Gen Z
+Young Black Stallion,Adventure,G,General Audiences,9254344,2003,Gen Z
+Teacher's Pet: The Movie,Comedy,PG,Parental Guidance Suggested,8812764,2004,Gen Z
+Miracle,Drama,PG,Parental Guidance Suggested,87392478,2004,Gen Z
+Confessions of a Teenage Drama Queen,Comedy,PG,Parental Guidance Suggested,39816568,2004,Gen Z
+Hidalgo,Western,PG-13,Parents Strongly Cautioned,91340921,2004,Gen Z
+The Ladykillers,Comedy,R,Restricted,53881593,2004,Gen Z
+Home on the Range,Comedy,PG,Parental Guidance Suggested,67910166,2004,Gen Z
+The Alamo,Western,PG-13,Parents Strongly Cautioned,30416359,2004,Gen Z
+Raising Helen,Comedy,PG-13,Parents Strongly Cautioned,50886144,2004,Gen Z
+Around the World in 80 Days,Adventure,PG,Parental Guidance Suggested,32585356,2004,Gen Z
+America's Heart and Soul,Documentary,Not Rated,Not Rated ,426246,2004,Gen Z
+King Arthur,Adventure,PG-13,Parents Strongly Cautioned,70423706,2004,Gen Z
+The Village,Thriller/Suspense,PG-13,Parents Strongly Cautioned,155021748,2004,Gen Z
+The Princess Diaries 2: Royal Engagement,Romantic Comedy,G,General Audiences,129164207,2004,Gen Z
+Mr. 3000,Comedy,PG-13,Parents Strongly Cautioned,29593641,2004,Gen Z
+The Last Shot,Comedy,R,Restricted,629502,2004,Gen Z
+Ladder 49,Action,PG-13,Parents Strongly Cautioned,101161045,2004,Gen Z
+The Incredibles,Adventure,PG,Parental Guidance Suggested,354488708,2004,Gen Z
+National Treasure,Adventure,PG,Parental Guidance Suggested,234069353,2004,Gen Z
+The Life Aquatic with Steve Zissou,Comedy,R,Restricted,32198655,2004,Gen Z
+Aliens of the Deep,Documentary,G,General Audiences,11740942,2005,Gen Z
+Pooh's Heffalump Movie,Adventure,G,General Audiences,23801835,2005,Gen Z
+The Pacifier,Comedy,PG,Parental Guidance Suggested,148619029,2005,Gen Z
+Ice Princess,Comedy,G,General Audiences,32064685,2005,Gen Z
+A Lot Like Love,Comedy,PG-13,Parents Strongly Cautioned,28716947,2005,Gen Z
+The Hitchhiker's Guide to the Galaxy,Comedy,PG,Parental Guidance Suggested,67096891,2005,Gen Z
+Hauru no ugoku shiro,Adventure,PG,Parental Guidance Suggested,6194870,2005,Gen Z
+Herbie: Fully Loaded,Comedy,G,General Audiences,86812798,2005,Gen Z
+Dark Water,Thriller/Suspense,PG-13,Parents Strongly Cautioned,33500491,2005,Gen Z
+Sky High,Adventure,PG,Parental Guidance Suggested,84088854,2005,Gen Z
+Valiant,Adventure,G,General Audiences,25616292,2005,Gen Z
+Flightplan,Thriller/Suspense,PG-13,Parents Strongly Cautioned,117960425,2005,Gen Z
+The Greatest Game Ever Played,Drama,PG,Parental Guidance Suggested,20162672,2005,Gen Z
+Shopgirl,Drama,R,Restricted,13519621,2005,Gen Z
+Chicken Little,Adventure,G,General Audiences,177954661,2005,Gen Z
+"The Chronicles of Narnia: The Lion, t…",Adventure,PG,Parental Guidance Suggested,381557539,2005,Gen Z
+Casanova,Drama,R,Restricted,14574087,2005,Gen Z
+Glory Road,Drama,PG,Parental Guidance Suggested,54888236,2006,Gen Z
+Annapolis,Drama,PG-13,Parents Strongly Cautioned,22044113,2006,Gen Z
+Roving Mars,Documentary,G,General Audiences,12948025,2006,Gen Z
+Eight Below,Adventure,PG,Parental Guidance Suggested,105037235,2006,Gen Z
+The Shaggy Dog,Comedy,PG,Parental Guidance Suggested,78667428,2006,Gen Z
+Stay Alive,Horror,PG-13,Parents Strongly Cautioned,29712825,2006,Gen Z
+The Wild,Adventure,G,General Audiences,48114115,2006,Gen Z
+Stick It,Comedy,PG-13,Parents Strongly Cautioned,34634731,2006,Gen Z
+Goal! The Dream Begins,Drama,PG,Parental Guidance Suggested,5512647,2006,Gen Z
+Cars,Comedy,G,General Audiences,314140384,2006,Gen Z
+Pirates of the Caribbean: Dead Man’…,Adventure,PG-13,Parents Strongly Cautioned,544817142,2006,Gen Z
+Step Up,Drama,PG-13,Parents Strongly Cautioned,84078780,2006,Gen Z
+Invincible,Drama,PG,Parental Guidance Suggested,74398864,2006,Gen Z
+The Guardian,Action,PG-13,Parents Strongly Cautioned,70801353,2006,Gen Z
+The Prestige,Thriller/Suspense,PG-13,Parents Strongly Cautioned,68289913,2006,Gen Z
+Tim Burton's The Nightmare Before Chr…,Musical,PG,Parental Guidance Suggested,30737517,2006,Gen Z
+The Santa Clause 3: The Escape Clause,Comedy,G,General Audiences,108694869,2006,Gen Z
+Déjà Vu,Thriller/Suspense,PG-13,Parents Strongly Cautioned,82267038,2006,Gen Z
+Apocalypto,Adventure,R,Restricted,64959548,2006,Gen Z
+Primeval,Adventure,R,Restricted,12985302,2007,Gen Z
+Bridge to Terabithia,Drama,PG,Parental Guidance Suggested,100760721,2007,Gen Z
+Wild Hogs,Comedy,PG-13,Parents Strongly Cautioned,206110533,2007,Gen Z
+Meet the Robinsons,Adventure,G,General Audiences,119860589,2007,Gen Z
+The Lookout,Drama,R,Restricted,5637048,2007,Gen Z
+The Hoax,Drama,R,Restricted,8779196,2007,Gen Z
+The Invisible,Thriller/Suspense,PG-13,Parents Strongly Cautioned,25202168,2007,Gen Z
+Pirates of the Caribbean: At World’…,Adventure,PG-13,Parents Strongly Cautioned,379129960,2007,Gen Z
+Ratatouille,Comedy,G,General Audiences,252955933,2007,Gen Z
+Underdog,Adventure,PG,Parental Guidance Suggested,53619462,2007,Gen Z
+The Game Plan,Comedy,PG,Parental Guidance Suggested,111010758,2007,Gen Z
+Dan in Real Life,Romantic Comedy,PG-13,Parents Strongly Cautioned,58350234,2007,Gen Z
+Enchanted,Romantic Comedy,PG,Parental Guidance Suggested,156074310,2007,Gen Z
+National Treasure 2: Book of Secrets,Adventure,PG,Parental Guidance Suggested,267003525,2007,Gen Z
+Hannah Montana/Miley Cyrus: Best of B…,Concert/Performance,G,General Audiences,76646993,2008,Gen Z
+Step Up 2 the Streets,Drama,PG-13,Parents Strongly Cautioned,68118371,2008,Gen Z
+College Road Trip,Comedy,G,General Audiences,53550960,2008,Gen Z
+The Chronicles of Narnia: Prince Caspian,Adventure,PG,Parental Guidance Suggested,166277038,2008,Gen Z
+WALL-E,Adventure,G,General Audiences,262771918,2008,Gen Z
+Swing Vote,Comedy,PG-13,Parents Strongly Cautioned,19125841,2008,Gen Z
+Goal! 2: Living the Dream...,Drama,PG-13,Parents Strongly Cautioned,264247,2008,Gen Z
+Miracle at St. Anna,Drama,R,Restricted,9295171,2008,Gen Z
+Beverly Hills Chihuahua,Comedy,PG,Parental Guidance Suggested,110932022,2008,Gen Z
+Morning Light,Documentary,PG,Parental Guidance Suggested,322979,2008,Gen Z
+High School Musical 3: Senior Year,Musical,G,General Audiences,106308538,2008,Gen Z
+Bolt,Comedy,PG,Parental Guidance Suggested,133702498,2008,Gen Z
+Bedtime Stories,Comedy,PG,Parental Guidance Suggested,128039679,2008,Gen Z
+Confessions of a Shopaholic,Romantic Comedy,PG,Parental Guidance Suggested,49767744,2009,Gen Z
+Jonas Brothers: The 3D Concert Experi…,Concert/Performance,G,General Audiences,38174685,2009,Gen Z
+Race to Witch Mountain,Adventure,PG,Parental Guidance Suggested,75501997,2009,Gen Z
+Hannah Montana the Movie,Drama,G,General Audiences,89443640,2009,Gen Z
+Earth,Documentary,G,General Audiences,35981010,2009,Gen Z
+Up,Adventure,PG,Parental Guidance Suggested,329336681,2009,Gen Z
+The Proposal,Romantic Comedy,PG-13,Parents Strongly Cautioned,184288829,2009,Gen Z
+G-Force,Adventure,PG,Parental Guidance Suggested,134246932,2009,Gen Z
+Gake no ue no Ponyo,Adventure,G,General Audiences,16961607,2009,Gen Z
+X Games 3D: The Movie,Documentary,PG,Parental Guidance Suggested,1563976,2009,Gen Z
+Walt and El Grupo,Documentary,PG,Parental Guidance Suggested,23064,2009,Gen Z
+Surrogates,Action,PG-13,Parents Strongly Cautioned,43361416,2009,Gen Z
+Toy Story 3D Double Feature,Adventure,G,General Audiences,34509545,2009,Gen Z
+Disney's A Christmas Carol,Drama,PG,Parental Guidance Suggested,154927105,2009,Gen Z
+The Princess and the Frog,Adventure,G,General Audiences,116316457,2009,Gen Z
+Old Dogs,Comedy,PG,Parental Guidance Suggested,55503929,2009,Gen Z
+When in Rome,Romantic Comedy,PG-13,Parents Strongly Cautioned,34917330,2010,Gen Z
+Alice in Wonderland,Adventure,PG,Parental Guidance Suggested,357063499,2010,Gen Z
+Waking Sleeping Beauty,Documentary,PG,Parental Guidance Suggested,86264,2010,Gen Z
+The Last Song,Drama,PG,Parental Guidance Suggested,67258772,2010,Gen Z
+Oceans,Documentary,G,General Audiences,20751600,2010,Gen Z
+Prince of Persia: Sands of Time,Action,PG-13,Parents Strongly Cautioned,96971361,2010,Gen Z
+Toy Story 3,Adventure,G,General Audiences,443408255,2010,Gen Z
+The Sorcerer's Apprentice,Adventure,PG,Parental Guidance Suggested,67473105,2010,Gen Z
+Step Up 3D,Drama,PG-13,Parents Strongly Cautioned,45302137,2010,Gen Z
+Gedo Senki (Tales from Earthsea),Adventure,PG-13,Parents Strongly Cautioned,51988,2010,Gen Z
+You Again,Comedy,PG,Parental Guidance Suggested,27461121,2010,Gen Z
+Secretariat,Drama,PG,Parental Guidance Suggested,63781920,2010,Gen Z
+Tangled,Adventure,PG,Parental Guidance Suggested,214388548,2010,Gen Z
+Tron: Legacy,Adventure,PG,Parental Guidance Suggested,183619259,2010,Gen Z
+Gnomeo and Juliet,Comedy,G,General Audiences,106270797,2011,n/a
+I am Number Four,Adventure,PG-13,Parents Strongly Cautioned,58574607,2011,n/a
+Mars Needs Moms,Adventure,PG,Parental Guidance Suggested,22741603,2011,n/a
+African Cats,Documentary,G,General Audiences,16401551,2011,n/a
+Zokkomon,Adventure,PG,Parental Guidance Suggested,2984,2011,n/a
+Prom,Comedy,PG,Parental Guidance Suggested,10768946,2011,n/a
+Pirates of the Caribbean: On Stranger…,Adventure,PG-13,Parents Strongly Cautioned,256263359,2011,n/a
+Cars 2,Adventure,G,General Audiences,203522177,2011,n/a
+Winnie the Pooh,Adventure,G,General Audiences,28375869,2011,n/a
+The Help,Drama,PG-13,Parents Strongly Cautioned,180404976,2011,n/a
+Fright Night,Horror,R,Restricted,19452402,2011,n/a
+Real Steel,Action,PG-13,Parents Strongly Cautioned,90848019,2011,n/a
+The Muppets,Comedy,PG,Parental Guidance Suggested,94189503,2011,n/a
+War Horse,Drama,PG-13,Parents Strongly Cautioned,84762149,2011,n/a
+The Secret World of Arietty,Adventure,G,General Audiences,20325733,2012,n/a
+John Carter,Adventure,PG-13,Parents Strongly Cautioned,77372445,2012,n/a
+Chimpanzee,Documentary,G,General Audiences,30675725,2012,n/a
+The Avengers,Action,PG-13,Parents Strongly Cautioned,660081224,2012,n/a
+Brave,Adventure,PG,Parental Guidance Suggested,251292441,2012,n/a
+People Like Us,Drama,PG-13,Parents Strongly Cautioned,13165822,2012,n/a
+The Odd Life of Timothy Green,Drama,PG,Parental Guidance Suggested,54914942,2012,n/a
+Frankenweenie,Comedy,PG,Parental Guidance Suggested,37363513,2012,n/a
+Wreck-It Ralph,Adventure,PG,Parental Guidance Suggested,200354959,2012,n/a
+Lincoln,Drama,PG-13,Parents Strongly Cautioned,192122330,2012,n/a
+Oz the Great and Powerful,Adventure,PG,Parental Guidance Suggested,243434130,2013,n/a
+Iron Man 3,Action,PG-13,Parents Strongly Cautioned,424084233,2013,n/a
+Monsters University,Adventure,G,General Audiences,278395641,2013,n/a
+The Lone Ranger,Western,PG-13,Parents Strongly Cautioned,92597388,2013,n/a
+Disney Planes,Comedy,PG,Parental Guidance Suggested,93614037,2013,n/a
+The Fifth Estate,Drama,R,Restricted,3374251,2013,n/a
+Thor: The Dark World,Adventure,PG-13,Parents Strongly Cautioned,213962184,2013,n/a
+Kaze Tachinu,Drama,PG-13,Parents Strongly Cautioned,5367415,2013,n/a
+Frozen,Adventure,PG,Parental Guidance Suggested,414997174,2013,n/a
+Delivery Man,Comedy,PG-13,Parents Strongly Cautioned,31787136,2013,n/a
+Saving Mr. Banks,Drama,PG-13,Parents Strongly Cautioned,86249969,2013,n/a
+Need for Speed,Action,PG-13,Parents Strongly Cautioned,44955015,2014,n/a
+Muppets Most Wanted,Comedy,PG,Parental Guidance Suggested,52807594,2014,n/a
+Captain America: The Winter Soldier,Action,PG-13,Parents Strongly Cautioned,268013076,2014,n/a
+Bears,Documentary,G,General Audiences,18346024,2014,n/a
+Million Dollar Arm,Drama,PG,Parental Guidance Suggested,37607865,2014,n/a
+Maleficent,Adventure,PG,Parental Guidance Suggested,249089809,2014,n/a
+Planes: Fire and Rescue,Adventure,PG,Parental Guidance Suggested,61040349,2014,n/a
+Guardians of the Galaxy,Adventure,PG-13,Parents Strongly Cautioned,343771168,2014,n/a
+The Hundred-Foot Journey,Romantic Comedy,PG,Parental Guidance Suggested,55961409,2014,n/a
+"Alexander and the Terrible, Horrible,…",Comedy,PG,Parental Guidance Suggested,69055550,2014,n/a
+Big Hero 6,Adventure,PG,Parental Guidance Suggested,229249222,2014,n/a
+Into the Woods,Musical,PG,Parental Guidance Suggested,130894237,2014,n/a
+Strange Magic,Adventure,PG,Parental Guidance Suggested,12429583,2015,n/a
+"McFarland, USA",Drama,PG,Parental Guidance Suggested,44480275,2015,n/a
+Cinderella,Drama,PG,Parental Guidance Suggested,201151353,2015,n/a
+Monkey Kingdom,Documentary,G,General Audiences,16432322,2015,n/a
+Avengers: Age of Ultron,Action,PG-13,Parents Strongly Cautioned,459005868,2015,n/a
+Tomorrowland,Adventure,PG,Parental Guidance Suggested,93436322,2015,n/a
+Inside Out,Adventure,PG,Parental Guidance Suggested,356461711,2015,n/a
+Ant-Man,Action,PG-13,Parents Strongly Cautioned,180202163,2015,n/a
+Bridge of Spies,Thriller/Suspense,PG-13,Parents Strongly Cautioned,72313754,2015,n/a
+The Good Dinosaur,Adventure,PG,Parental Guidance Suggested,123087120,2015,n/a
+Star Wars Ep. VII: The Force Awakens,Adventure,PG-13,Parents Strongly Cautioned,936662225,2015,n/a
+The Finest Hours,Thriller/Suspense,PG,Parental Guidance Suggested,27569558,2016,n/a
+Zootopia,Adventure,PG,Parental Guidance Suggested,341268248,2016,n/a
+The Jungle Book,Adventure,PG,Parental Guidance Suggested,364001123,2016,n/a
+A Beautiful Planet,Documentary,G,General Audiences,7895708,2016,n/a
+Captain America: Civil War,Action,PG-13,Parents Strongly Cautioned,408084349,2016,n/a
+Alice Through the Looking Glass,Adventure,PG,Parental Guidance Suggested,77042381,2016,n/a
+Finding Dory,Adventure,PG,Parental Guidance Suggested,486295561,2016,n/a
+The BFG,Adventure,PG,Parental Guidance Suggested,55483770,2016,n/a
+Pete’s Dragon,Adventure,PG,Parental Guidance Suggested,76233151,2016,n/a
+The Light Between Oceans,Drama,PG-13,Parents Strongly Cautioned,12545979,2016,n/a
+Queen of Katwe,Drama,PG,Parental Guidance Suggested,8874389,2016,n/a
+Doctor Strange,Adventure,PG-13,Parents Strongly Cautioned,232532923,2016,n/a
+Moana,Adventure,PG,Parental Guidance Suggested,246082029,2016,n/a
+Rogue One: A Star Wars Story,Adventure,PG-13,Parents Strongly Cautioned,529483936,2016,n/a
